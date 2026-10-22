@@ -1,0 +1,15 @@
+# GHDL
+*.cf
+*.o
+tb_fir8
+work-obj*.cf
+
+# Fichiers generes par fir.py
+input.txt
+output.txt
+fig_*.png
+
+# Python
+__pycache__/
+*.pyc
+.DS_Store
